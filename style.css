@@ -4,3 +4,8 @@ p {
 #p5 {
   background-color: red;
 }
+.animate {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
