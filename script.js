@@ -1,9 +1,4 @@
 $(function () {
-  // j
-  $("#p1").click(function () {
-    $("#p5").hide();
-  });
-
   $("#start").click(function () {
     $(".animate").animate(
       {
